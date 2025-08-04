@@ -4,11 +4,11 @@
 
 Creating a simple blog using laravel:
 
+<img width="1591" height="680" alt="screenshot--2025 08 04-16_05_10" src="https://github.com/user-attachments/assets/ca0ad18a-b0c8-466c-90be-e5ff4f1a3a4e" style="border:1px solid #ddd border-radius:4px;" />
+<br>
+
 Run this command to run the application : <b>php artisan serve</b> <br>
 Url to run application : <b>http://127.0.0.1:8000/</b>
-
-<img width="1591" height="680" alt="screenshot--2025 08 04-16_05_10" src="https://github.com/user-attachments/assets/ca0ad18a-b0c8-466c-90be-e5ff4f1a3a4e" style="border:1px solid #ddd border-radius:4px;" />
-
 
 ## License
 
